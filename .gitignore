@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+*.egg-info/
+dist/
+build/
+jmeter/resultados.jtl
+jmeter/estadisticas.jtl
+jmeter/jmeter.log
